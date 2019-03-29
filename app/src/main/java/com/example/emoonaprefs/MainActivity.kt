@@ -69,6 +69,7 @@ class MainActivity : AppCompatActivity() {
             println(retrievedUser.toString())
         }
     }
+    
 }
 
 class User(val name: String, val age: Int)
